@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am a PhD student, researching disability-related biases in LLMs.
 <!--
 **hycern/hycern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
