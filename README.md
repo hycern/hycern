@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hello World! 👋
 
-I am a PhD student, researching disability-related biases in LLMs.
+I am a PhD student at the Karlsruhe Institute of Technology, researching disability, biases and generative AI.
 <!--
 **hycern/hycern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
